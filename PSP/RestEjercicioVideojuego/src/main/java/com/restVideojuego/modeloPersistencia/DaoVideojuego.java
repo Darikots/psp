@@ -28,7 +28,7 @@ public class DaoVideojuego {
 		Videojuego v3 = new Videojuego();
 		v3.setId(cont++);
 		v3.setNombre("Persona5 Royal");
-		v3.setCompa-nia("Atlus");
+		v3.setCompania("Atlus");
 		v3.setPrecio(69.95);
 		v3.setPuntuacion(9.3);
 		
