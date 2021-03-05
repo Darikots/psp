@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 import com.restVideojuego.entidad.Videojuego;
 
 @Component
-public interface DaoVideojuego {
+public class DaoVideojuego {
 	
 	private List<Videojuego> listaVideojuego;
 	private int cont = 0;
